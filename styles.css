@@ -18,10 +18,10 @@ header {
     /* background-image: (#dbeb7f, #BEE6AC); */
 }
 
-footer {
+/*footer {
     font-family: ;
 
-}
+}*/
 
 /* header image */
 .introImage {
@@ -60,7 +60,7 @@ footer {
 }
 
 /* background-color: rgb(60, 148, 107); */
-}
+
 
 .pics {
     display: flex;
