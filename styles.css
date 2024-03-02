@@ -14,7 +14,7 @@ em {
 header {
     position: sticky;
     top: 0;
-    background-color: rgb(135, 203, 165);
+    background-color: rgb(209, 242, 235);
     /* background-image: (#dbeb7f, #BEE6AC); */
 }
 
@@ -27,7 +27,7 @@ footer {
 .introImage {
     width: 200px;
     padding: 0px;
-    border: 20px solid black;
+    border: 10px solid black;
 }
 
 .title {
@@ -49,11 +49,43 @@ footer {
 }
 
 .aboutMeSection {
-    background-color: rgb(60, 148, 107);
+    background-image: url(assests/austin-schmid-Xg-vMDEYFOM-unsplash.jpg);
+    padding: 75px;
+    height: 200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(194, 228, 223);
+}
+
+/* background-color: rgb(60, 148, 107); */
 }
 
 .pics {
     display: flex;
+}
+
+.skillsSection {
+    background-image: url(assests/armstrong-redwoods-state-park-california-usa-2274342.jpg);
+    padding: 75px;
+    height: 200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.workexperience {
+    background-image: url(assests/neom-Kcna6XWDY7w-unsplash.jpg);
+    padding: 75px;
+    height: 200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
 }
 
 /* img {
